@@ -3,3 +3,6 @@ b = 4
 
 penjumlahan = a +b
 print(penjumlahan)
+
+pembagian = a/b
+print(pembagian)
